@@ -1,8 +1,5 @@
-Windows Application
-----------------------
 TravelRecSW 
-- C#
-- MS SQL Server
+----------------------
 
 <img src="https://github.com/user-attachments/assets/0cc66120-1ece-4aee-90e9-6876d5ddc140" width="250px"><br><br>
 
